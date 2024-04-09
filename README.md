@@ -1,1 +1,1 @@
-# GateServer-VarifyServer
+# GateServer
